@@ -13,8 +13,8 @@ Made to backport the new raw ore system and removing the annoyance of different 
 
 ## Compatibility
 
-Disabling the same ore from other mods is recommended.
-Works with Industrialcraft Macerator and Thermal Expansion Pulveriser and Induction Smelter.
+Disabling the same ore from other mods is recommended. <br/>
+Works with Industrialcraft Macerator and Thermal Expansion Pulverizer and Induction Smelter.
 
 
 ## Credits
