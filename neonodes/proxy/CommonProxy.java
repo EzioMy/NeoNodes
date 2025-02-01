@@ -224,7 +224,7 @@ public class CommonProxy implements IGuiHandler  {
 				// Raw Ore OreDict
 				int i = 0;
 				for(String name : metals){
-					OreDictionary.registerOre("raw" + name, new ItemStack(NeoNodes.nodeItem, 1, i));
+					OreDictionary.registerOre("ore" + name, new ItemStack(NeoNodes.nodeItem, 1, i));
 					i++;
 				}
 				
